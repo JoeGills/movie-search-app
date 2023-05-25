@@ -2,7 +2,7 @@ body {
   font-family: Arial, sans-serif;
   margin: 0;
   padding: 0;
-  background-color: #f8f8f8;
+  background-color: #e3fbfc;
 }
 
 .container {
@@ -28,7 +28,7 @@ input[type="text"] {
   flex-grow: 0.25;
   padding: 10px;
   font-size: 16px;
-  border: 1px solid #ccc;
+  border: 1px solid #d5eac5;
   border-radius: 5px;
 }
 
@@ -48,17 +48,20 @@ button[type="submit"]:hover {
 
 h2 {
   margin-top: 0;
-  color: #333;
+  color: #500563;
 }
 
 p {
-  color: #777;
+  color: darkblue;
 }
 
 .movie-details {
-  background-color: #f8f8f8;
+  background-color: #f8f8f842;
   padding: 20px;
+  border: 1px solid #6ad80942;
   border-radius: 5px;
-  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  box-shadow: 0 2px 4px rgba(164, 82, 82, 0.587);
   margin-top: 20px;
+  width: 70%;
+  max-width: 600px;
 }

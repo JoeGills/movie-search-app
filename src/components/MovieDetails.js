@@ -4,8 +4,12 @@ function MovieDetails({ movie }) {
   return (
     <div className="movie-details">
       <h2>{movie.title}</h2>
-      <p>Release Date: {movie.release_date}</p>
-      <p>Overview: {movie.overview}</p>
+      <p>
+        <strong>Release Date:</strong> {movie.release_date}
+      </p>
+      <p>
+        <strong>Overview:</strong> {movie.overview}
+      </p>
     </div>
   );
 }
