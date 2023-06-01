@@ -1,3 +1,5 @@
+The movie search screen showcases a user-friendly interface with a prominent search form for inputting movie titles. Upon submitting a search query, the app fetches data and displays relevant movie details, such as the title, release date, and overview, providing users with an engaging movie search experience.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
